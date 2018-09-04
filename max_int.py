@@ -1,6 +1,3 @@
-# Design an algorithm that finds the maximum positive integer input by a user.  
-# The user repeatedly inputs numbers until a negative value is entered.
-
 # skref 1 búa til breytur fyrir max_int og num_int
 # skref 2 taka við num_int frá notanda
 # skref 3 bera saman max_int og num_int, ef number er hærri breytist gildi max_int
